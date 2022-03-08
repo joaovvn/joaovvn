@@ -3,7 +3,7 @@
 
 ## My name is João Victor
 
-🧑‍💻 Computer Science Bachelor | [5/10]
+🧑‍💻 Computer Science Bachelor | [5/9]
 
 📱 Mobile Developer | Grupo Tiradentes
 
