@@ -6,4 +6,5 @@
 💻 Bachelor's in Computer Science | [5/9]
 
 📱 Mobile Developer | Grupo Tiradentes - Jan/2022 - May/2022
+
 📱 Mobile Developer | Result Sistemas - May/2022 - Now
