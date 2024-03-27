@@ -1,5 +1,5 @@
 # Hi there! 
-<img width = 200 height = 200 src = "https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
+<img width = 240 height = 159 src = "https://media.giphy.com/media/12B39IawiNS7QI/giphy.gif?cid=ecf05e47v2u7sban0rklj6n48ycg4zeb94a90lh1z3fceml0&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ## My name is João Victor
 
@@ -7,4 +7,4 @@
 
 📱 Mobile Developer | Grupo Tiradentes - Jan/2022 - May/2022
 
-📱 Mobile Developer | Result Sistemas - May/2022 - Now
+📱 Mobile Developer | Alltomatize Sistemas (former Result Sistemas) - May/2022 - Now
