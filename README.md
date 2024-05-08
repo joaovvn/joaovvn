@@ -7,4 +7,5 @@
 
 📱 Mobile Developer | [Grupo Tiradentes](www.grupotiradentes.com) - Jan/2022 - May/2022
 
-📱 Mobile Developer | [Alltomatize Sistemas](https://alltomatize.com.br/) (former Result Sistemas) - May/2022 - Now
+📱 Mobile Developer | [Alltomatize Sistemas](https://alltomatize.com.br/) (former Result Sistemas) - May/2022 - May/2024
+
