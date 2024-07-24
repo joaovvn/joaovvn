@@ -3,9 +3,9 @@
 
 ## My name is João Victor
 
-💻 Bachelor's in Computer Science | [9/9]
+💻 Bachelor Degree in Computer Science
 
 📱 Mobile Developer | [Grupo Tiradentes](www.grupotiradentes.com) - Jan/2022 - May/2022
 
-📱 Mobile Developer | [Alltomatize Sistemas](https://alltomatize.com.br/) (former Result Sistemas) - May/2022 - May/2024
+📱 Mobile Developer | [Alltomatize Sistemas](https://alltomatize.com.br/) - May/2022 - May/2024
 
