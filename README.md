@@ -35,7 +35,7 @@
 
 <h2 align="left">My name is João Victor</h2>
 
-<p align="left"> I'm a mobile developer with focus on Flutter and Kotlin. Have some professional experience with JavaScript and Java.</p>
+<p align="left"> I'm a mobile developer with focus on Flutter and Kotlin.</p>
 
 💻 Bachelor Degree in Computer Science @ [Universidade Tiradentes](www.unit.br) - Feb/2020 - Jul/2024
 
