@@ -35,13 +35,15 @@
 
 <h2 align="left">My name is João Victor</h2>
 
-<p align="left"> I'm a mobile developer with focus on Flutter and Kotlin.</p>
+<p align="left"> I'm a software engineer specializing in Flutter and Kotlin, currently working with React.</p>
 
 💻 Bachelor Degree in Computer Science @ [Universidade Tiradentes](www.unit.br) - Feb/2020 - Jul/2024
 
-📱 Mobile Development Intern @ [Grupo Tiradentes](www.grupotiradentes.com) - Jan/2022 - May/2022
+📱 Mobile Engineering Intern @ [Grupo Tiradentes](www.grupotiradentes.com) - Jan/2022 - May/2022
 
-📱 Mobile Developer @ [Alltomatize Sistemas](https://alltomatize.com.br/) - May/2022 - May/2024
+📱 Mobile Engineer @ [Alltomatize Sistemas](https://alltomatize.com.br/) - May/2022 - May/2024
+
+💻 Fullstack Engineer @ [Acceta](https://www.acceta.com.br/) - Mar/2025 - Present
 
 
 <details>
