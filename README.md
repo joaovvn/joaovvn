@@ -16,6 +16,9 @@
   <a href="https://firebase.google.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=firebase&theme=light" height="50" alt="firebase logo"  />
   </a>
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react&theme=light" height="50" alt="android studio logo"  />
+  </a>
   <a href="https://kotlinlang.org/" target="_blank">
     <img src="https://skillicons.dev/icons?i=kotlin&theme=light" height="50" alt="kotlin logo"  />
   </a>
@@ -35,7 +38,7 @@
 
 <h2 align="left">My name is João Victor</h2>
 
-<p align="left"> I'm a software engineer specializing in Flutter and Kotlin, currently working with React.</p>
+<p align="left"> Software engineer working with React and Flutter, experienced in React Native.</p>
 
 💻 Bachelor Degree in Computer Science @ [Universidade Tiradentes](www.unit.br) - Feb/2020 - Jul/2024
 
