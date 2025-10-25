@@ -48,7 +48,7 @@
 
 💻 Fullstack Engineer @ [Acceta](https://www.acceta.com.br/) - Mar/2025 - Oct/2025
 
-📱 Mobile Engineer (via [Niuro](https://niuro.io/) @ [Pasley Hill](https://www.pasleyhill.com/) - Oct/2025 - Present
+📱 Mobile Engineer (via [Niuro](https://niuro.io/)) @ [Pasley Hill](https://www.pasleyhill.com/) - Oct/2025 - Present
 
 
 <details>
