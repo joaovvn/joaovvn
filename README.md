@@ -46,7 +46,9 @@
 
 📱 Mobile Engineer @ [Alltomatize Sistemas](https://alltomatize.com.br/) - May/2022 - May/2024
 
-💻 Fullstack Engineer @ [Acceta](https://www.acceta.com.br/) - Mar/2025 - Present
+💻 Fullstack Engineer @ [Acceta](https://www.acceta.com.br/) - Mar/2025 - Oct/2025
+
+📱 Mobile Engineer (via [Niuro](https://niuro.io/) @ [Pasley Hill](https://www.pasleyhill.com/) - Oct/2025 - Present
 
 
 <details>
